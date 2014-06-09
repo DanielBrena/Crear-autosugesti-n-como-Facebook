@@ -1,0 +1,43 @@
+#cabecera{
+	width: 100%;
+	background-color: #3B5998;
+	padding: 5px;
+}
+#caja-texto{
+	width: 250px;
+	height: 25px;
+	margin-left: 200px;
+}
+#caja-usuarios{
+	width: 250px;
+	margin-left: 200px;
+	float: left;
+	overflow: hidden;
+	border: 1px solid #efefef;
+}
+.show-usuarios{
+	color:#5b5b5b;
+	width: 250px;
+	height: 35px;
+	float: left;
+	padding: 5px;
+	border: 1px solid #efefef;
+}
+.show-usuarios img{
+	float: left;
+	width: 35px;
+
+}
+.show-usuarios .ciudad{
+	color:#bcbcbc;
+
+}
+.show-usuarios:hover{
+	background-color: #f4f4f4;
+}
+.info{
+	margin-left: 10px;
+	float: left;
+	width:200px;
+	margin-top: 0px;
+}
